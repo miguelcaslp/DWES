@@ -14,7 +14,7 @@ se veran los siguientes apartados:
    ```Java
    import system.out.println
    void main(String args[]){
-      println('hola')
+      println('hola');
    }
   ```
  ## Tema 2
