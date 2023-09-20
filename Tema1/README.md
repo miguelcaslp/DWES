@@ -31,7 +31,7 @@ public class HelloWorld {
 }
 ```
 
-![Javascript](assets/javascript.webp)
+![Javascript](assets/js.png)
 
 > **AVISO**: Esto debe escribirse en un terminal.
 > 
@@ -39,6 +39,4 @@ public class HelloWorld {
 > ```javascript
 > var numero = 5.7
 > ```
-
-![NodeJS](assets/nodejs.png)
 
