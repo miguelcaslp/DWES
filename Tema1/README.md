@@ -23,4 +23,10 @@ public class HelloWorld {
  ## Tema 2
 ![Texto Alternativo](https://cdn.ethic.es/wp-content/uploads/2023/03/imagen.jpg)
 
+> **Aviso:** Esta es una versión beta y puede contener errores.
+>
+> ```javascript
+>var numero=5.7
+>```
+
 
