@@ -21,5 +21,5 @@ public class HelloWorld {
 ```
 
  ## Tema 2
-¡[Tema1](‪C:\Users\Miguel\Pictures\pikachu.png)
+![Tema1](‪C:\Users\Miguel\Pictures\pikachu.png)
 
