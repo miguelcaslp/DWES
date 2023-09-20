@@ -21,7 +21,6 @@ public class HelloWorld {
 ```
 
  ## Tema 2
-![Tema1](‪C:\Users\Miguel\Pictures\pikachu.png)
-![Texto Alternativo](C:\Users\Miguel\Pictures\pikachu.png)
+![Texto Alternativo](https://cdn.ethic.es/wp-content/uploads/2023/03/imagen.jpg)
 
 
