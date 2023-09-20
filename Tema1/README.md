@@ -12,12 +12,14 @@ se veran los siguientes apartados:
 4. cuarto
 
 
-   ```Java
-   import system.out.println;
-   void main(String args[]){
-      println('hola');
-   }
-  ```
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+```
+
  ## Tema 2
 ¡[Tema1](https://imgv3.fotor.com/images/homepage-feature-card/PNG-de-coches.jpg)
 
